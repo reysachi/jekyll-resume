@@ -1,51 +1,44 @@
 ---
-title: "C'thulhu Resume"
 layout: resume
+title: "My awesome resume"
 ---
 
-# C'thulhu
+#<div align="center">Rachel Yamamoto</div>
+#####<div align="center">19981 Winter Lane, Saratoga CA 95070, (408)-455-0873</div>
+##Education
+- Case Western Reserve University, Cleveland OH 
+Expected May 2024
+Bachelor of Science: Computer Science
+GPA: 4.0
 
-> I am an outgoing and energetic (ask anybody) young professional, seeking a career that fits my professional skills, personality, and murderous tendencies. My squid-like head is a masterful problem solver and inspires fear in who gaze upon it. I can bring world domination to your organization.
+- Courses Spring 2021: Introduction to Data Science, Introduction to Data Structures
+Saratoga High School, Saratoga CA 
+May 2020
+Graduated with High Honors
+GPA: 4.3
 
-## Education
+##Experience
+- Lawrence Livermore National Laboratory(LLNL) Computing Intern
+  - Built a cluster. 
+  - Built and ran containers and compared their runtimes 
+- First Tech Challenge (FTC) Robotics, Saratoga, CA August 2017
+   - Communications lead and hardware member
+   - Supervised and managed the engineering notebook (robot progress notebook).
+Acted as a spokesperson for the team and helped build the robot frame and arm.
 
-### **Withering Madness University** Planet Vhoorl
+- Kumon, Saratoga, CA August 2018 Tutor
+  - Graded math and English papers from children aged 5-14.
 
-**Major:** Public Relations
+##Skills
+Linux
+Programming: Java, Python
+Languages: English, Mandarin Chinese
 
-**Minor:** Scale Tending
-
-## Skills
-
-### **Office skills**
-
-Office and records management, database administration, event organization, customer support, travel coordination
-
-### **Computer skills**
-
-Microsoft productivity software (Word, Excel, etc), Adobe Creative Suite, Windows
-
-## Experience
-
-### **Leader & Overlord** Doomsday Cult, Baton Rogue, LA <span>1926&ndash;Present</span>
-
-- Inspired and won highest peasant death competition among servants
-- Helped coordinate managers to grow cult following
-- Provided untimely deaths to all who opposed
-
-### **Bartender/Server** The Watering Hole, Milwaukee, WI <span>2009</span>
-
-- Worked on grass-roots promotional campaigns
-- Reduced theft and property damage percentages
-- Janitorial work, Laundry
-
-## Hobbies
-
-World Domination, Deep Sea Diving, Murder Most Foul
-
-## References
-
-Available on request
+##Honors and Activities
+- Vice president of Crochet Club, 2019
+- California All State Orchestra (CASMEC), 2019
+- Midwest Clinic International Band and Orchestra Conference, 2018
+- Violinist in Saratoga High School Orchestra, 2016-2020
 
 ## Links
 
