@@ -3,9 +3,9 @@ layout: resume
 title: "My awesome resume"
 ---
 
-# <div align="center"> Rachel Yamamoto </div>
+# Rachel Yamamoto 
 
-##### <div align="center"> 19981 Winter Lane, Saratoga CA 95070, (408)-455-0873 </div>
+##### 19981 Winter Lane, Saratoga CA 95070, (408)-455-0873 
 
 ## Education
 
