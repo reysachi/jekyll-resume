@@ -3,9 +3,9 @@ layout: resume
 title: "My awesome resume"
 ---
 
-#<div align="center">Rachel Yamamoto</div>
-#####<div align="center">19981 Winter Lane, Saratoga CA 95070, (408)-455-0873</div>
-##Education
+# <div align="center">Rachel Yamamoto</div>
+##### <div align="center">19981 Winter Lane, Saratoga CA 95070, (408)-455-0873</div>
+## Education
 - Case Western Reserve University, Cleveland OH 
 Expected May 2024
 Bachelor of Science: Computer Science
@@ -17,7 +17,7 @@ May 2020
 Graduated with High Honors
 GPA: 4.3
 
-##Experience
+## Experience
 - Lawrence Livermore National Laboratory(LLNL) Computing Intern
   - Built a cluster. 
   - Built and ran containers and compared their runtimes 
@@ -29,12 +29,12 @@ Acted as a spokesperson for the team and helped build the robot frame and arm.
 - Kumon, Saratoga, CA August 2018 Tutor
   - Graded math and English papers from children aged 5-14.
 
-##Skills
+## Skills
 Linux
 Programming: Java, Python
 Languages: English, Mandarin Chinese
 
-##Honors and Activities
+## Honors and Activities
 - Vice president of Crochet Club, 2019
 - California All State Orchestra (CASMEC), 2019
 - Midwest Clinic International Band and Orchestra Conference, 2018
